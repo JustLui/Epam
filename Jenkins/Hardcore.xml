@@ -6,7 +6,7 @@
     <hudson.model.ParametersDefinitionProperty>
       <parameterDefinitions>
         <hudson.model.StringParameterDefinition>
-          <name>UserName</name>
+          <name>UserNames</name>
           <description>Enter Your Name</description>
           <defaultValue/>
           <trim>false</trim>
